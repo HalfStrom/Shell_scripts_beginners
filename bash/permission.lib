@@ -1,0 +1,14 @@
+# permission.lib
+
+STD_MSG="Completed sucessfully"
+
+execute(){
+	# expects to be called: execute command
+	FILES=$1
+
+	for i in *$FILES
+	do
+		j=`basename $i $FROM`
+		chmod u+x ${j}
+	done
+}
