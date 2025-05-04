@@ -1,0 +1,11 @@
+anotacao
+files.txt
+hello.sh
+new_program.sh
+nice.sh
+output.txt
+reading_From_a_file.sh
+Roadmap
+saida.txt
+teste.sh
+writing_To_a_file.sh
